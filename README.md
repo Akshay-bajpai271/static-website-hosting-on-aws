@@ -28,7 +28,7 @@ AWS S3 – Static website hosting
 ├── index.html        # Main HTML file
 ├── style.css         # Styling file
 ├── canddy.webp       # Image used in gallery
-├── candy.webp        # Banner image (optional)
+├── candy.webp        # Banner image
 
 
 
@@ -75,6 +75,6 @@ Add the following policy to make your website public:
 }
 
 Step 5: Access Website
-Use the S3 website endpoint URL to view your site
+Use the S3 website endpoint URL to view your site.
 
 
