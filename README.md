@@ -75,6 +75,7 @@ Add the following policy to make your website public:
 }
 
 Step 5: Access Website
-Use the S3 website endpoint URL to view your site.
+Use the S3 website endpoint URL to view your site :
+http://akshaybucket6393.s3-website-us-east-1.amazonaws.com
 
 
